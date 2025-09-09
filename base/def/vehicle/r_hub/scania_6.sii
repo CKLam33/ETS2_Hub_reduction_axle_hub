@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub.scania_6.rhub
+{
+	name: "Scania Hypoid Axle"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/rear/scania_6.pmd"
+	icon: "hub/scania_hub"
+	//paintable: true
+}
+}

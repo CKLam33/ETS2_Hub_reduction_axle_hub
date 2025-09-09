@@ -1,0 +1,12 @@
+﻿SiiNunit
+{
+accessory_rim_data : kcl_hub_p.ez_trac_1.fhub
+{
+	name: "EZ Trac (MAN HydroDriven®) (Paint)"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/ez_trac_1_p.pmd"
+	icon: "hub/man_hub"
+	paintable: true
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub_p.scania_hr_1.fhub
+{
+	name: "Scania Driven Steer Axle (Paint)"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/scania_1_hr_p.pmd"
+	icon: "hub/scania_hub"
+	paintable: true
+}
+}

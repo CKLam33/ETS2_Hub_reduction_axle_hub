@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub_p.sisu_3.fhub
+{
+	name: "SISU Non-Driven Steer Axle (Paint)"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/front_sisu_ndsa_2_p.pmd"
+	icon: "hub/sisu_hub"
+	paintable: true
+}
+}

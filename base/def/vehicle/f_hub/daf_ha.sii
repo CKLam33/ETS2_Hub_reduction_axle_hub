@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub.daf_ha.fhub
+{
+	name: "DAF Hydroaxle"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/front_daf_ha.pmd"
+	icon: "hub/daf_hub"
+	//paintable: true
+}
+}

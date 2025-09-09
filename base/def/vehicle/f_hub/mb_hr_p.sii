@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub_p.mb_hr.fhub
+{
+	name: "Mercedes-Benz Driven Steer Axle (Paint)"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/mb_hr_p.pmd"
+	icon: "hub/mb_hub"
+	paintable: true
+}
+}

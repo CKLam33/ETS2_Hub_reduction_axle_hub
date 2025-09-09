@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : kcl_hub.iveco_hr.fhub
+{
+	name: "Iveco Driven Steer Axle"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/kcl_hub/front/iveco_hr.pmd"
+	icon: "hub/iveco_hub"
+	//paintable: true
+}
+}

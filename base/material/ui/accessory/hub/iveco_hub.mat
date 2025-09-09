@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "iveco_hub.tobj"
+	texture_name : "texture"
+}

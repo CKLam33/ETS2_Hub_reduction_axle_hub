@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "volvo_hub.tobj"
+	texture_name : "texture"
+}

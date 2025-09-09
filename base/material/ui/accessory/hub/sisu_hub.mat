@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "sisu_hub.tobj"
+	texture_name : "texture"
+}
